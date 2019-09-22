@@ -1,0 +1,78 @@
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Home.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Kamar.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\TgsProjectVB.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\bin\Debug\TgsProjectVB.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\bin\Debug\TgsProjectVB.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\bin\Debug\TgsProjectVB.xml
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\TgsProjectVB.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\TgsProjectVB.xml
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\TgsProjectVB.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Dokter.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.InfoKamar.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.InfoPasien.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Pasien.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Obat.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Transaksi.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.BiayaPengeluaran.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Perawat.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Struk.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.InfoTransaksi.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.DokterJaga.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.InputObat.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.JadwalObat.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.JadwalDokter.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.JadwalPerawatdanDokterJaga.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\TgsProjectVB.exe
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\TgsProjectVB.xml
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\TgsProjectVB.pdb
+F:\TgsProjectVB\TgsProjectVB\bin\Debug\TgsProjectVB.exe
+F:\TgsProjectVB\TgsProjectVB\bin\Debug\TgsProjectVB.pdb
+F:\TgsProjectVB\TgsProjectVB\bin\Debug\TgsProjectVB.xml
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.BiayaPengeluaran.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Dokter.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.DokterJaga.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Home.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.InfoKamar.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.InfoPasien.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.InfoTransaksi.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.InputObat.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.JadwalDokter.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.JadwalObat.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.JadwalPerawatdanDokterJaga.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Kamar.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Login.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Obat.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Pasien.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Perawat.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Struk.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Transaksi.resources
+F:\TgsProjectVB\TgsProjectVB\obj\x86\Debug\TgsProjectVB.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\TgsProjectVB.exe
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\TgsProjectVB.xml
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\TgsProjectVB.pdb
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\bin\Debug\TgsProjectVB.exe
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\bin\Debug\TgsProjectVB.pdb
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\bin\Debug\TgsProjectVB.xml
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.BiayaPengeluaran.resources
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Dokter.resources
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.DokterJaga.resources
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Home.resources
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.InfoKamar.resources
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.InfoPasien.resources
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.InfoTransaksi.resources
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.InputObat.resources
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.JadwalDokter.resources
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.JadwalObat.resources
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.JadwalPerawatdanDokterJaga.resources
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Kamar.resources
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Obat.resources
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Pasien.resources
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Perawat.resources
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Struk.resources
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\WindowsApplication1.Transaksi.resources
+C:\Users\Lenovo\Documents\TA vb\TgsProjectVB\TgsProjectVB\obj\x86\Debug\TgsProjectVB.vbproj.GenerateResource.Cache
